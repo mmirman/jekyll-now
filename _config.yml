@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: matt@mirman.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/mmirman
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
