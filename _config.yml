@@ -6,10 +6,10 @@
 name: Matthew Mirman
 
 # Short bio or description (displayed in the header)
-description: Computer Scientist, Logician, ETH Zurich PhD student working on AI
+description: Computer Scientist, Logician, <a href=https://www.srl.inf.ethz.ch/mm.php>ETH Zurich PhD student</a> working on AI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/1150097?s=460&v=4
 
 #
 # Flags below are optional
