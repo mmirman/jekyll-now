@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 ---  
 
-# <center> About Me Us </center>
+<h1><center> About Me </center></h1>
 <center><img src="/images/matthew_mirman.jpg" /></center>
 
 
