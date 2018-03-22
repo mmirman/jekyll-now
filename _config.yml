@@ -18,8 +18,8 @@ avatar:  /images/luxor_logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: matt@mirman.com
-  github: https://github.com/mmirman
-  linkedin: https://www.linkedin.com/in/matthewmirman/
+  github: mmirman
+  linkedin: matthewmirman
   twitter: mmirman
 
 
