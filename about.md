@@ -1,10 +1,17 @@
 ---
 layout: page
-title: About
 permalink: /about/
----
+---  
+
+# <center> About Me </center> #
+<center><img src="/images/matthew_mirman.jpg" /></center>
+
 
 I am a PhD student at the Department of Computer Science at ETH Zurich as part of the Software Reliability Lab since January 2017.
+
+### Research Interests ###
+
+I am researching AI as viewed as differentiable programming through the lense of programming language techniques. This encompasses both applications of program analysis techniques for to learning systems and construction of deep learning systems using the constructs developed in the area of programming language design. Historically, I've done research on metaprogramming using first class type inference, and computational geometry.
 
 ### Publications ###
 
@@ -59,3 +66,13 @@ linear and ordered typed tagless DSLs.
 
 * [matt@mirman.com](mailto:matt@mirman.com)
 * [matthew.mirman@inf.ethz.ch](mailto:matthew.mirman@inf.ethz.ch)
+* Office: CNB H 100.5
+
+
+### Personal Facts ###
+
+* I am a US citizen currently living in Zurich, Switzerland
+* I have also lived in Brooklyn NY, San Francisco CA, Pittsburgh PA, Waltham MA.
+* I am originally from NYC.
+* My accent is not as bad as Feynman's was. 
+* I ride a [mountain unicycle](https://www.youtube.com/watch?v=GUZuyMVdVcc).
