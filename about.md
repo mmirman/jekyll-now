@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Contact me
+### [School website](https://www.srl.inf.ethz.ch/mm.php)
 
-[matt@mirman.com](mailto:matt@mirman.com)
+### Contact me 
+
+* [matt@mirman.com](mailto:matt@mirman.com)
+* [matthew.mirman@inf.ethz.ch](mailto:matthew.mirman@inf.ethz.ch)
