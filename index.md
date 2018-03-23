@@ -1,0 +1,4 @@
+---
+permalink: /
+---  
+{% include about.md %}
