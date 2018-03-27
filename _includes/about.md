@@ -18,6 +18,8 @@ I am researching AI as viewed as differentiable programming through the lense of
   Gary L. Miller, Matthew Mirman, Todd Phillips  
   Fall Workshop in Computational Geometry 2010 - Poster
 
+* [Google Scholar Page](https://scholar.google.com/citations?user=ovm4iLwAAAAJ&hl=en)
+
 ### Education ###
 
 * __ETH Zurich__, [Software Reliability Lab](https://www.srl.inf.ethz.ch/), January 2017 – Current
