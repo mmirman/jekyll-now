@@ -22,7 +22,7 @@ I am researching AI as viewed as differentiable programming through the lense of
 
 ### Education ###
 
-* __ETH Zurich__, [Software Reliability Lab](https://www.sri.inf.ethz.ch/), January 2017 – Current
+* __ETH Zurich__, [Secure, Reliability and Intelligent Systems Lab](https://www.sri.inf.ethz.ch/), January 2017 – Current
   PhD in Computer Science  
   Advisor: [Martin Vechev](https://www.sri.inf.ethz.ch/vechev.php)
 
