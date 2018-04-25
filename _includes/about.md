@@ -2,11 +2,13 @@
 <center><img src="/images/matthew_mirman.jpg" /></center>
 
 
-I am a PhD student at the Department of Computer Science at ETH Zurich as part of the Software Reliability Lab since January 2017.
-
-### Research Interests ###
-
-I am researching AI as viewed as differentiable programming through the lense of programming language techniques. This encompasses both applications of program analysis techniques for to learning systems and construction of deep learning systems using the constructs developed in the area of programming language design. Historically, I've done research on metaprogramming using first class type inference, and computational geometry.
+I am a PhD researching AI as viewed as differentiable programming through the lense of programming language techniques. 
+This encompasses both applying program analysis techniques to analyze existing learning systems, 
+and using these techniques as components of new learning systems. 
+Recently, this has meant working on important problems in AI safety such as protecting against 
+adversarial attacks in neural networks.
+Historically, I've done research on metaprogramming using first class type inference, substructural logics, 
+computational geometry for fluid simulations, and computer graphics.
 
 ### Publications ###
 
