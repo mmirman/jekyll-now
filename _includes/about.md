@@ -24,7 +24,7 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Education ###
 
-* __ETH Zurich__, [Secure, Reliability and Intelligent Systems Lab](https://www.sri.inf.ethz.ch/), January 2017 – Current
+* __ETH Zurich__, [Secure, Reliable and Intelligent Systems Lab](https://www.sri.inf.ethz.ch/), January 2017 – Current
   PhD in Computer Science  
   Advisor: [Martin Vechev](https://www.sri.inf.ethz.ch/vechev.php)
 
