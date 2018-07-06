@@ -12,11 +12,11 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Publications ###
 
-* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b.html)
+* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b.html)    
   Matthew Mirman, Timon Gehr, Martin Vechev,
   ICML 2018
 
-* [Training Neural Machines with Trace-Based Supervision](https://www.sri.inf.ethz.ch/papers/icml18-ncm.pdf)
+* [Training Neural Machines with Trace-Based Supervision](https://www.sri.inf.ethz.ch/papers/icml18-ncm.pdf)    
   Matthew Mirman, Dimitar Dimitrov, Pavle Djordjevich, Timon Gehr, Martin Vechev,
   ICML 2018
 
