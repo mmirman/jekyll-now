@@ -13,15 +13,15 @@ computational geometry for fluid simulations, and computer graphics.
 ### Publications ###
 
 * [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b.html)    
-  Matthew Mirman, Timon Gehr, Martin Vechev,
+  Matthew Mirman, Timon Gehr, Martin Vechev,    
   ICML 2018
 
 * [Training Neural Machines with Trace-Based Supervision](https://www.sri.inf.ethz.ch/papers/icml18-ncm.pdf)    
-  Matthew Mirman, Dimitar Dimitrov, Pavle Djordjevich, Timon Gehr, Martin Vechev,
+  Matthew Mirman, Dimitar Dimitrov, Pavle Djordjevich, Timon Gehr, Martin Vechev,    
   ICML 2018
 
 * [AI2: Abstract Interpretation of Neural Networks](http://ai2.ethz.ch/)  
-  Timon Gehr, Matthew Mirman, Dana Drachsler Cohen, Petar Tsankov, Swarat Chaudhuri, Martin Vechev,
+  Timon Gehr, Matthew Mirman, Dana Drachsler Cohen, Petar Tsankov, Swarat Chaudhuri, Martin Vechev,    
   IEEE S&P 2018
 
 * [Inversion of Quadratic Bezier Triangles](http://www.ams.sunysb.edu/~jsbm/fwcg10/papers/p04.pdf)  
