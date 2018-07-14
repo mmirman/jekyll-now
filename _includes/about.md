@@ -12,7 +12,7 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Publications ###
 
-* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b.html)    
+* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](https://www.sri.inf.ethz.ch/papers/icml18-diffai.pdf)    
   Matthew Mirman, Timon Gehr, Martin Vechev,    
   ICML 2018
 
@@ -53,6 +53,9 @@ computational geometry for fluid simulations, and computer graphics.
 
 * [Caledon:](https://github.com/mmirman/caledon)
 A higher order meta-programming logic language typed by a pure type system with an infinite universe heirarchy and first class type inference.
+
+* [DiffAI:](https://github.com/eth-sri/diffai)
+Differentiable Abstract Interpretation for Robustness
 
 * [Forward-Chan:](https://github.com/mmirman/forward-chan) 
 An implementation of a more general "forward" primitive used in the identity rule for the proof terms of the sequent calculus formulation of linear logic, based on traditional channel primitives and mutation.
