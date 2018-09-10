@@ -16,7 +16,7 @@ computational geometry for fluid simulations, and computer graphics.
   Matthew Mirman, Timon Gehr, Martin Vechev,    
   ICML 2018
 
-* [Training Neural Machines with Trace-Based Supervision](https://www.sri.inf.ethz.ch/papers/icml18-ncm.pdf)    
+* [Training Neural Machines with Trace-Based Supervision](https://eth-sri.github.io/publications/mirman2018training)    
   Matthew Mirman, Dimitar Dimitrov, Pavle Djordjevich, Timon Gehr, Martin Vechev,    
   ICML 2018
 
