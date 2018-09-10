@@ -12,7 +12,7 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Publications ###
 
-* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](https://www.sri.inf.ethz.ch/papers/icml18-diffai.pdf)    
+* [Differentiable Abstract Interpretation for Provably Robust Neural Networks](https://eth-sri.github.io/publications/mirman2018differentiable)    
   Matthew Mirman, Timon Gehr, Martin Vechev,    
   ICML 2018
 
