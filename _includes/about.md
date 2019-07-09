@@ -2,7 +2,7 @@
 <center><img src="/images/matthew_mirman.jpg" /></center>
 
 
-I am a PhD student working on AI viewed as differentiable programming through the lense of programming language techniques. 
+I am a PhD student working on AI viewed as differentiable programming through the lens of programming language techniques. 
 This encompasses both applying program analysis techniques to analyze existing learning systems, 
 and using these techniques as components of new learning systems. 
 Recently, this has meant working on important problems in AI safety such as protecting against 
