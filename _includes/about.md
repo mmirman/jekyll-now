@@ -12,9 +12,21 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Publications ###
 
+* [Robustness Certification with Generative Models](https://files.sri.inf.ethz.ch/website/papers/mirman2021pldi.pdf)
+  Matthew Mirman, Alexander Hägele, Timon Gehr, Pavol Bielik, Martin Vechev
+  PLDI 2021
+  
+* [Universal Approximation with Certified Networks](https://files.sri.inf.ethz.ch/website/papers/iclr2020-universal.pdf)
+  Maximilian Baader, Matthew Mirman, Martin Vechev,
+  ICLR 2020  
+
 * [Differentiable Abstract Interpretation for Provably Robust Neural Networks](https://eth-sri.github.io/publications/mirman2018differentiable)    
   Matthew Mirman, Timon Gehr, Martin Vechev,    
   ICML 2018
+
+* [Fast and Effective Robustness Certification](https://files.sri.inf.ethz.ch/website/papers/DeepZ.pdf)
+  Gagandeep Singh, Timon Gehr, Matthew Mirman, Markus Püschel, Martin Vechev
+  NeurIPS 2018
 
 * [Training Neural Machines with Trace-Based Supervision](https://eth-sri.github.io/publications/mirman2018training)    
   Matthew Mirman, Dimitar Dimitrov, Pavle Djordjevich, Timon Gehr, Martin Vechev,    
@@ -28,7 +40,7 @@ computational geometry for fluid simulations, and computer graphics.
   Gary L. Miller, Matthew Mirman, Todd Phillips  
   Fall Workshop in Computational Geometry 2010 - Poster
 
-* [Google Scholar Page](https://scholar.google.com/citations?user=ovm4iLwAAAAJ&hl=en)
+* More on [Google Scholar Page](https://scholar.google.com/citations?user=ovm4iLwAAAAJ&hl=en)
 
 ### Education ###
 
@@ -51,11 +63,14 @@ computational geometry for fluid simulations, and computer graphics.
 
 ### Projects ###
 
+* [DiffAI:](https://github.com/eth-sri/diffai)
+Differentiable Abstract Interpretation for Robustness
+
 * [Caledon:](https://github.com/mmirman/caledon)
 A higher order meta-programming logic language typed by a pure type system with an infinite universe heirarchy and first class type inference.
 
-* [DiffAI:](https://github.com/eth-sri/diffai)
-Differentiable Abstract Interpretation for Robustness
+* [MentisOculi:](https://github.com/mmirman/MentisOculi)
+Differentiable pathtracing
 
 * [Forward-Chan:](https://github.com/mmirman/forward-chan) 
 An implementation of a more general "forward" primitive used in the identity rule for the proof terms of the sequent calculus formulation of linear logic, based on traditional channel primitives and mutation.
